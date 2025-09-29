@@ -1,11 +1,11 @@
 * {
   margin: 0;
-    padding: 0;
-    background-image: url('Fundo\ da\ imagemi.jpg');
-    background-size: cover; 
-    background-position: center;
-    background-attachment: fixed;
-    font-family: Arial, sans-serif;
+  padding: 0;
+  background-image: url("Fundo da imagemi.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  font-family: Arial, sans-serif;
 }
 
 header {
@@ -24,7 +24,6 @@ main {
   justify-content: center;
   min-height: 100vh;
   justify-content: center;
-  gap: 20px;
   padding: 15px;
 }
 
@@ -37,20 +36,19 @@ img {
   margin: 10px auto;
 }
 
-li{
+li {
   margin-top: 60px;
   border-top: 0.4px solid #ffffff;
   padding: 20px;
 }
 
-ul{
+ul {
   display: flex;
   justify-content: center;
   gap: 40px;
-
 }
 
-a{
+a {
   text-decoration: none;
   color: #ffffff;
   padding: 5px;
@@ -69,9 +67,6 @@ a{
   flex-direction: column;
   align-items: center;
   justify-content: center;
-}
-
-.titulo {
   font-family: "Oswald", sans-serif;
   color: rgb(255, 255, 255);
   text-align: center;
@@ -79,21 +74,20 @@ a{
 }
 
 .btn1 {
-background-color: #ffffff;
-    width: 200px;
-    height: 70px;
-    box-shadow: 4px 5px 4px rgb(0, 0, 0);
-    border-radius: 20px;
-    color: #ffffff;
-    
+  background-color: #ffffff;
+  width: 200px;
+  height: 70px;
+  box-shadow: 4px 5px 4px rgb(0, 0, 0);
+  border-radius: 20px;
+  color: #ffffff;
 }
 
 .filme {
-    padding: 15px;
-    border-radius: 10px;
-    width: 250px;
-    text-align: center;
-    color: rgb(255, 255, 255);
+  padding: 15px;
+  border-radius: 10px;
+  width: 250px;
+  text-align: center;
+  color: rgb(255, 255, 255);
 }
 
 .subtitulo {
@@ -118,4 +112,4 @@ background-color: #ffffff;
   color: #ffffff;
   font-size: 14px;
   text-decoration: none;
-}
+}/*# sourceMappingURL=style.css.map */
