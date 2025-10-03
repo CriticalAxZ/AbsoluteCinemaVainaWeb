@@ -28,7 +28,7 @@ O projeto foi desenvolvido utilizando:
 
 Aqui está uma prévia do site em funcionamento:  
 
-![App Screenshot](https://cdn.discordapp.com/attachments/1395026050672623697/1422224379101708340/image.png?ex=68dbe52b&is=68da93ab&hm=f915a7bcfd98eb456bdf152634c932fd4784f75079b527b7f5634ab7233f6f14&)
+![App Screenshot](https://cdn.discordapp.com/attachments/1397530055055245354/1422921279467687947/image.png?ex=68de6e35&is=68dd1cb5&hm=bd97e6a11d0188761e04c2e5f28f18c4621480c198cabe1b7d5f7f2637c18a06&)
 
 -----
 
